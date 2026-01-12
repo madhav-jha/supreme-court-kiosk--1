@@ -1,7 +1,7 @@
 [
   {
-    "case_number": "SC/2025/12345",
-    "parties": "A vs. B",
+    "case_number": "SC/2025/12345","SC/2025/123456"
+    "parties": "A vs. B","C vs D"
     "advocates": "Adv. Sharma; Adv. Khan",
     "status": "Listed",
     "next_date": "2025-09-02",
